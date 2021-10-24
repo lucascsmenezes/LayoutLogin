@@ -1,0 +1,14 @@
+main form.formulario{
+    position: absolute;
+    top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 250px;
+}
+
+main form .inputs-container{
+    width: 400px;
+    height: 200px;
+}
